@@ -24,7 +24,7 @@
 
 <a href="https://hh.ru/resume/57462bcfff0bcc18a40039ed1f515056483173"><img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="Image 1" width="50"></a>
 
-<a href="https://www.linkedin.com/in/nikolay-sidorov-260421271"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-2011.jpg" alt="Image 1" width="100"></a>
+<a href="https://www.linkedin.com/in/nikolay-sidorov-260421271"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-2011.jpg" alt="Image 1" width="50"></a>
 </div>
 
 
