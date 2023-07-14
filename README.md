@@ -3,9 +3,9 @@
 
 <h1 align="left"> About me </a> 
 <li> I'am a self-taught iOS developer 📚 </li>
-<p align="left">I'am a self-taught iOS developer 🍏 </p>
-<p align="left">I like sport, clean code and algorithms </p> 
-<p align="left">I am a very friendly and honest person </p> 
+<li>I'am a self-taught iOS developer 🍏 </li>
+<li>I like sport, clean code and algorithms </li> 
+<li>I am a very friendly and honest person </li> 
 
 <!--
 **Spikepiegel/Spikepiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
