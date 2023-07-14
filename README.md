@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikolay-sidorov-260421271" target="_blank">Nikolay</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h1 align="left"> About me </a> 
+<h2 align="left"> About me </h2> 
 <li> I'am a self-taught iOS developer 📚 </li>
 <li>I'am a self-taught iOS developer 🍏 </li>
 <li>I like sport, clean code and algorithms </li> 
