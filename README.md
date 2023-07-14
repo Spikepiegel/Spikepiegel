@@ -2,10 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2 align="left"> About me </h2> 
-<li> I'am a self-taught iOS developer 📚 </li>
-<li>I'am a self-taught iOS developer 🍏 </li>
-<li>I like sport, clean code and algorithms </li> 
-<li>I am a very friendly and honest person </li> 
+<li> I'am a self-taught iOS developer 🍏 </li>
+<li>I like sport, clean code and algorithms 📚 </li> 
+<li>I am a very friendly and honest person 😌 </li> 
 
 <!--
 **Spikepiegel/Spikepiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
