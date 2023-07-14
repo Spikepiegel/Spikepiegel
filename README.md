@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/nikolay-sidorov-260421271"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/linkedin-2-300x300.png" alt="Image 1" width="50"></a>
 </div>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Spikepiegel)   
+[![CodeWars](https://www.codewars.com/users/your_username/badges/small)](https://www.codewars.com/users/Spikepiegel)
 
 
 
