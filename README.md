@@ -6,6 +6,16 @@
 <li>I like sport, clean code and algorithms 📚 </li> 
 <li>I am a very friendly and honest person 😌 </li> 
 
+<h2 align="left">Skills & Tools</h2>
+<div class="image-row">
+  <img src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png" alt="Image 1">
+  <img src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png" alt="Image 2">
+  <img src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png" alt="Image 3">
+  <img src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png" alt="Image 4">
+  <img src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png" alt="Image 5">
+  <img src="https://user-images.githubusercontent.com/10991489/119416278-918ddb80-bcf3-11eb-9106-2e73b8f45902.png" alt="Image 6">
+</div>
+
 <!--
 **Spikepiegel/Spikepiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
