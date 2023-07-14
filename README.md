@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikolay-sidorov-260421271" target="_blank">Nikolay</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'am a self-taught iOS developer 🍏 🇷🇺</h3>
+<h3 align="center">I'am a self-taught iOS developer 🍏 </h3>
 
 <!--
 **Spikepiegel/Spikepiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
