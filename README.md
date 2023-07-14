@@ -21,7 +21,7 @@
   <a href="https://t.me/n_lermont"><img src="https://camo.githubusercontent.com/fb913f475254d97cc09e42aa0551d5f3855a251427e665f515edf51dc1e2d708/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f74656c656772616d2d6170702d2d76312e706e67" alt="Image 1" width="50"></a>
 <a href="https://vk.com/n_lermont"><img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" alt="Image 1" width="50"></a>
 <a href="https://hh.ru/resume/57462bcfff0bcc18a40039ed1f515056483173"><img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="Image 1" width="50"></a>
-<a href="https://www.linkedin.com/in/nikolay-sidorov-260421271"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-2011.jpg" alt="Image 1" width="50"></a>
+<a href="https://www.linkedin.com/in/nikolay-sidorov-260421271"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/logo-linkedin-2011.jpg" alt="Image 1" width="100"></a>
 </div>
 
 
