@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h1 align="left"> About me </a> 
-<p> I'am a self-taught iOS developer 📚 </p>
+<li> I'am a self-taught iOS developer 📚 </li>
 <p align="left">I'am a self-taught iOS developer 🍏 </p>
 <p align="left">I like sport, clean code and algorithms </p> 
 <p align="left">I am a very friendly and honest person </p> 
