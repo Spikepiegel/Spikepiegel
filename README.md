@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2 align="left"> About me </h2> 
-<li> I'am an iOS developer 🍏 </li>
+<li>I enjoy building iOS apps 📱 </li>
 <li>I like sport, clean code and algorithms 📚 </li> 
-<li>I am a very friendly and honest person 😌 </li> 
+<li>Being a friendly and honest person is an essential part of who I am 😌</li> 
 
 <h2 align="left">Skills & Tools</h2>
 <div>
