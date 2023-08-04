@@ -3,7 +3,7 @@
 
 <h2 align="left"> About me </h2> 
 <li>I enjoy building iOS apps 📱 </li>
-<li>I like sport, clean code and algorithms 📚 </li> 
+<li>I have a passion for sport, clean code, and algorithms 🏋️‍♂️🧹🔍</li> 
 <li>Being a friendly and honest person is an essential part of who I am 😌</li> 
 
 <h2 align="left">Skills & Tools</h2>
