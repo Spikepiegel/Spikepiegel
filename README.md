@@ -16,7 +16,8 @@
 
 <h2 align="left"> Contact Me </h2>
 <div>
-  <a href="https://rinser.ru/d/telegram-icon.png" alt="Image 1" width="50"></a>
+  
+<a href="https://shop.halbknapp.at/images/Telegram_icon.png" alt="Image 1" width="50"></a>
 <a href="https://vk.com/n_lermont"><img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" alt="Image 1" width="50"></a>
 <a href="https://www.linkedin.com/in/nikolay-sidorov-260421271"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/linkedin-2-300x300.png" alt="Image 1" width="50"></a>
 <a href="https://hh.ru/resume/57462bcfff0bcc18a40039ed1f515056483173"><img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="Image 1" width="50"></a>
