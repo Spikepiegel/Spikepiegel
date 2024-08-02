@@ -26,6 +26,5 @@
 
 <h2 align="left"> Statistics </h2>
 
-![Codewars](https://github.r2v.ch/codewars?user=Spikepiegel&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
